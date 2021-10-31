@@ -26,3 +26,8 @@ instagramのいいねプログラムを作成する
 
 `pipenv shell` コマンドで仮想環境を構築し、その中で作業をする
 
+## 動作確認
+
+```
+python main.py
+```
